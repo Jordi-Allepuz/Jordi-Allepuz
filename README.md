@@ -1,8 +1,8 @@
 <div  id="header" align="center">
     <h1 align="center">Hola &#128075 Soy Jordi Allepuz</h1>
     <h2 align="center">Bienvenidos a mi perfil de Github</h2>
-    <p align="center">Soy estudiante de DAM/DAW, apasiadonado de los ordenadores y la informatica. Aprendiendo sobre varios campos 
-        de la informatica com bases de datos, lenguajes de marcas y sobretodo programación. Estoy enfocado en aprender lenguajes "back-end"
+    <p >Soy estudiante de DAM/DAW, apasiadonado de los ordenadores y la informatica. Aprendiendo sobre varios campos 
+        de la informatica como bases de datos, lenguajes de marcas y sobretodo programación. Estoy enfocado en aprender lenguajes "back-end"
         aunque siempre he pensado que tener conocimientos mixtos "back-end/front-end" es lo mas versatil. Interesado en continuar mis estudios
         en el campo de ciberseguridad. 
     </p>
