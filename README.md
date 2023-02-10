@@ -1,7 +1,7 @@
 <div  id="header" align="center">
     <img src="https://github.com/Jordi-Allepuz/Jordi-Allepuz/blob/main/perfilgithub.jpg" title="encabezado" alt="encabezado"/>
     <h1 align="center">Hola &#128075 Soy Jordi Allepuz</h1>
-    <h2 align="center">Bienvenidos a mi perfil de Github</h2>
+    <h2 align="center">Bienvenidos a mi perfil de GitHub</h2>
     <p align="center" >
         Soy estudiante de DAM/DAW, apasiadonado de los ordenadores y la informática. Estoy aprendiendo sobre varios campos 
         de la informática como bases de datos, lenguajes de marcas y sobretodo programación. 
