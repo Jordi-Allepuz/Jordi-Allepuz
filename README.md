@@ -12,8 +12,13 @@
 ---
 ### Sobre mi:
 -Estoy estudiando en el I.E.S "El Caminas", Ciclo Superior DAM/DAW
+
 -Aprendiendo sobre HTML, CSS, SQL, JAVA
+
 -Realizando cursos externos sobre KOTLIN, JAVA.
+
 -Interesado en trabajar como desarrollador de apps movil. 
+
 -Puedes contactar conmigo **valencianu@gmail.com** 
+
 
