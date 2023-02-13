@@ -12,15 +12,15 @@
 
 ---
 ### Sobre mi:
--Estudiando en el I.E.S "El Caminas", Ciclo Superior DAM/DAW
+- 🥇 Estudiando en el I.E.S "El Caminas", Ciclo Superior DAM/DAW
 
--Aprendiendo sobre HTML, CSS, SQL, JAVA
+- 🌱 Aprendiendo sobre HTML, CSS, SQL, JAVA
 
--Realizando cursos externos sobre KOTLIN, JAVA, PHYTON
+- 🤔 Realizando cursos externos sobre KOTLIN, JAVA, PHYTON
 
--Interesado en trabajar como desarrollador de apps movil. 
+- 😄 Interesado en trabajar como desarrollador de apps movil. 
 
--Puedes contactar conmigo **valencianu@gmail.com** 
+- 📫 Puedes contactar conmigo **valencianu@gmail.com** 
 
 ---
 <div align="left">
