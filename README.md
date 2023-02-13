@@ -16,7 +16,7 @@
 
 - 🌱 Aprendiendo sobre HTML, CSS, SQL, JAVA
 
-- 🤔 Realizando cursos externos sobre KOTLIN, JAVA, PHYTON
+- 💪 Realizando cursos externos sobre KOTLIN, JAVA, PHYTON
 
 - 😄 Interesado en trabajar como desarrollador de apps movil. 
 
