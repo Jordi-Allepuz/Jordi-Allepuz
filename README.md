@@ -1,5 +1,5 @@
 <div  id="header" align="center">
-    <img src="https://github.com/Jordi-Allepuz/Jordi-Allepuz/blob/main/githubperfil.png" title="encabezado" alt="encabezado"/>
+    <img src="https://github.com/Jordi-Allepuz/Jordi-Allepuz/blob/main/githubperfil.jpg" title="encabezado" alt="encabezado"/>
     <h1 align="center">Hola &#128075 Soy Jordi Allepuz</h1>
     <h2 align="center">Bienvenidos a mi perfil de GitHub</h2>
     <p align="center" >
