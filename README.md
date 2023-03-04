@@ -1,11 +1,10 @@
 <div  id="header" align="center">
     <img src="https://github.com/Jordi-Allepuz/Jordi-Allepuz/blob/main/githubperfil.jpg" title="encabezado" alt="encabezado"/>
-    <h1 align="center">Hola &#128075 Soy Jordi Allepuz</h1>
-    <h2 align="center">Bienvenidos a mi perfil de GitHub</h2>
+    <h1 align="center">Hello &#128075 I am Jordi Allepuz</h1>
+    <h2 align="center">Wellcome to my GitHub Profile</h2>
     <p align="center" >
-        Soy estudiante de DAM/DAW, apasiadonado de los ordenadores y la informática. Estoy aprendiendo sobre varios campos 
-        de la informática como bases de datos, lenguajes de marcas y sobretodo programación. 
-        Enfocado en lenguajes "back-end" aunque siempre he pensado que tener conocimientos mixtos "back-end/front-end" es lo mas versátil.                           Interesado en continuar mis estudios en el campo de ciberseguridad. 
+        I am a multiplatform application development student who is passionate about computers and computing. I am learning about diferent fields of computer         science such as databases, markup languages and programming. Focused on "back-end" languages, although I have always thought that having mixed "back-         end/front-end" knowledge is the most versatile. Interested in continuing my studies in the field of cybersecurity.
+        
     </p>
 </div>
 
