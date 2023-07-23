@@ -3,7 +3,7 @@
     <h1 align="center">Hello &#128075 I am Jordi Allepuz</h1>
     <h2 align="center">Wellcome to my GitHub Profile</h2>
     <p align="center" >
-        I am a multiplatform application development student who is passionate about computers and computing. I am learning about diferent fields of computer         science such as databases, markup languages and programming. Focused on "back-end" languages, although I have always thought that having mixed "back-         end/front-end" knowledge is the most versatile. Interested in continuing my studies in the field of cybersecurity.  
+        I am a multiplatform application development student who is passionate about computers and computing. I am learning about diferent fields of computer         science such as databases, markup languages and programming. Focused on "back-end" languages, although I have always thought that having mixed "back-         end/front-end" knowledge is the most versatile.  
     </p>
 </div>
 
@@ -16,7 +16,7 @@
 
 - 💪 Taking external courses about KOTLIN, PHYTON 
 
-- 😄 Interested in work like Mobile App Developer or Cybersecurity Consultant and Analyst
+- 😄 Interested in work like Mobile App Developer
 
 - 📫 You can contact me **valencianu@gmail.com** 
 
