@@ -12,9 +12,9 @@
 ### About me:
 - 🥇 Studying Multiplatform Application Development at "El Caminas" high school 
 
-- 🌱 Learning about HTML, CSS, SQL, JAVA
+- 🌱 Learning about Kotlin, Jetpack Compose, JAVA, HTML, CSS, SQL
 
-- 💪 Taking external courses about KOTLIN, PHYTON 
+- 💪 Taking external courses about KOTLIN, JetPack Compose
 
 - 😄 Interested in work like Mobile App Developer
 
