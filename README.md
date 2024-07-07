@@ -55,23 +55,3 @@
 </div>
 
 
-## 🌟 Popular Repositories
-
-### [Repositorio 1](https://github.com/tu-usuario/repositorio1)
-![Stars](https://img.shields.io/github/stars/tu-usuario/repositorio1?style=social)
-![Forks](https://img.shields.io/github/forks/tu-usuario/repositorio1?style=social)
-Descripción breve del repositorio 1 y lo que hace. 
-
-### [Repositorio 2](https://github.com/tu-usuario/repositorio2)
-![Stars](https://img.shields.io/github/stars/tu-usuario/repositorio2?style=social)
-![Forks](https://img.shields.io/github/forks/tu-usuario/repositorio2?style=social)
-Descripción breve del repositorio 2 y lo que hace.
-
-### [Repositorio 3](https://github.com/tu-usuario/repositorio3)
-![Stars](https://img.shields.io/github/stars/tu-usuario/repositorio3?style=social)
-![Forks](https://img.shields.io/github/forks/tu-usuario/repositorio3?style=social)
-Descripción breve del repositorio 3 y lo que hace.
-
-
-
-
