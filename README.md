@@ -22,20 +22,39 @@
 
 ---
 <div align="left">
+    <h3>Back-end:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="springboot" alt="springboot" width="40" height="40"/>
+    </div>
+    <h3>App Android:</h3>
+    <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="kotlin" alt="jetpack" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>
+    </div>
+    <h3>Front-end  Web:</h3>
+    <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="springboot" alt="springboot" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>
+    </div>
+    <h3>Database:</h3>
+    <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="sql" alt="sql" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>
     </div>
+    <h3>Version Control (VCS):</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="springboot" width="40" height="40"/>
+    <div>
+
+    
+        
 </div>
 
 
