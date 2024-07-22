@@ -50,7 +50,6 @@
     <h3>Version Control (VCS):</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="springboot" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
     <div>
 </div>
