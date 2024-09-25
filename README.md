@@ -20,7 +20,7 @@
 
 - 💪 Some certifications (Google IT Automation with Python Professional Certificate, AWS Certified Cloud Practitioner CLF-C02)
   
-- 💪 About my personal proyects (backends, Android Apps, IA integration...)
+- 💪 About my personal projects (backends, Android Apps, IA integration...)
 
 - 😄 Interested in work like Mobile App Developer and Web Developer
 
