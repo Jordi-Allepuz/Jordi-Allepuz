@@ -26,6 +26,8 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="springboot" alt="springboot" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="springboot" alt="springboot" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="springboot" alt="springboot" width="40" height="40"/>
     </div>
     <h3>App Android:</h3>
     <div>
