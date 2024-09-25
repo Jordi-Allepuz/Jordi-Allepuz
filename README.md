@@ -10,11 +10,17 @@
 
 ---
 ### About me:
-- 🥇 Multiplatform Application Developer at "El Caminas" high school 
+- 🥇 Multiplatform Application Developer at "El Caminas" high school
+
+- 🥇 Web Application Developer at "El Caminas" high school 
 
 - 🌱 Learning about Java, Kotlin, Jetpack Compose, HTML, CSS, SQL
 
 - 💪 Taking external courses about Spring Boot, Angular, React, Kotlin, JetPack Compose, PHP, Symfony
+
+- 💪 Some certifications (Google IT Automation with Python Professional Certificate, AWS Certified Cloud Practitioner CLF-C02)
+  
+- 💪 About my personal proyects (backends, Android Apps, IA integration...)
 
 - 😄 Interested in work like Mobile App Developer and Web Developer
 
